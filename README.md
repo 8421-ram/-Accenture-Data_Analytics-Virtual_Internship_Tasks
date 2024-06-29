@@ -30,6 +30,10 @@ Data Cleaning :- Scripts and documentation related to data cleaning processes.
 Data Modeling :- Code and analysis related to data modeling tasks.
 Project Understanding :- Documents outlining project objectives, scope, and understanding.
 Miscellaneous :- Additional materials, resources, and reflections on the internship experience.
+__________________________________________________________________________________________________
+
+# Presentation Video:-
+[![Watch the video]src="https://res.cloudinary.com/dgwuwwqom/video/upload/v1719646833/Github/Accenture%20presentation%20video.mp4" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 
 # Presentation Certificate:-
 ![Accenture](https://res.cloudinary.com/dgwuwwqom/image/upload/v1719642533/Github/Accenture.jpg)
